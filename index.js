@@ -5,7 +5,7 @@ const client = createClient({
   port: 19132,
   username: 'McBot',
   offline: true,
-  version: '1.21.50'
+  version: '26.66.1'
 })
 
 client.on('spawn', () => {
